@@ -348,7 +348,7 @@ html{
 	display: flex;
 	justify-content: space-between;
 }
-.copyright{
+.footer-content p{
 	font-family: 'Baloo Da 2', serif;
 	font-size: 1.6rem;
 	color: #a7a7a7;
